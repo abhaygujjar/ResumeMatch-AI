@@ -1,0 +1,16 @@
+AI/ML Intern
+
+We are looking for an AI/ML intern to join our team in Noida.
+
+Requirements:
+- Strong knowledge of Python and SQL
+- Experience with Machine Learning and data analysis
+- Hands-on experience with Pandas, NumPy and Scikit-learn
+- Experience with TensorFlow or PyTorch
+- Good problem solving and communication skills
+- Knowledge of Git and GitHub
+
+Nice to have:
+- Docker and FastAPI
+- Computer Vision or NLP
+- Experience with Streamlit
